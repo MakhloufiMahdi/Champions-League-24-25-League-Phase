@@ -1,0 +1,41 @@
+Power BI Dashboard for Champions League 24/25 League Phase
+
+🔥 A Strong Attack Doesn’t Always Mean a Solid Defense
+
+Football is a game of balance. A powerful offensive strategy does not always translate into defensive reliability. FC Barcelona, despite having the most potent attack, does not possess the best defense, unlike Inter Milan. The Italian club showcases an impressive defensive structure, which could play a decisive role in the later stages of European competitions.
+
+📊 Average Possession of Top Teams:
+
+Bayern Munich: 69% → 20 goals
+
+Manchester City: 67% → 20 goals
+
+FC Barcelona: 62% → 28 goals
+
+Paris Saint-Germain: 62% → 20 goals
+
+💡 Insight: Bayern Munich and Manchester City dominate possession, yet possession alone does not guarantee high offensive output. Barcelona excels at capitalizing on its possession, demonstrating an efficient attacking strategy. A deeper look reveals that while City and Bayern control the game, they are not always clinical in their finishing, whereas Barcelona optimizes its offensive sequences much better.
+
+🎯 Number of Shots on Target & Conversion Rates:
+
+Bayern Munich: 69 shots on target → 20 goals (28.9% conversion rate)
+
+Manchester City & PSV: 59 shots on target → 20 goals (33.9% conversion rate)
+
+Liverpool: 57 shots on target → 20 goals (35.1% conversion rate)
+
+FC Barcelona: 56 shots on target → 28 goals (50% conversion rate)
+
+💡 Analysis: FC Barcelona leads the efficiency chart by converting half of its shots on target into goals. In contrast, Bayern struggles to maximize its large number of attempts, revealing an issue with finishing precision.
+
+💡 Observation: A team like Bayern Munich, which accumulates many shots on target but also misses numerous opportunities, suggests an efficiency problem in their offensive play.
+
+🔍 Inter Milan’s defensive discipline, on the other hand, compensates for a less prolific attack, proving that solid defensive structures can be as impactful as attacking firepower.
+
+🔍 Key Takeaways:
+
+✅ Inter Milan’s solid defense highlights that a well-structured defensive approach can neutralize strong attacks, making them a serious contender in the knockout rounds.
+
+✅ FC Barcelona and Liverpool’s high conversion rates indicate that their goal-scoring chances are of better quality compared to Bayern and Manchester City, who need to enhance their attacking efficiency.
+
+✅ High possession does not always equate to more goals, as seen with Bayern and City, where controlling the game does not necessarily lead to better scoring results.
